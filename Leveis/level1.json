@@ -1,0 +1,38 @@
+{
+    "largura": 11,
+    "altura": 8,
+    "chaos": [
+        {
+            "x": 4,
+            "y": 2,
+            "largura": 6,
+            "altura": 6
+        }
+    ],
+    "objetos": [
+        {
+            "tipo": "NENHUM",
+            "posicao": {
+                "x": 0,
+                "y": 0
+            },
+            "direcao": "CIMA"
+        },
+        {
+            "tipo": "INICIO",
+            "posicao": {
+                "x": 3,
+                "y": 4
+            },
+            "direcao": "DIREITA"
+        },
+        {
+            "tipo": "FIM",
+            "posicao": {
+                "x": 10,
+                "y": 5
+            },
+            "direcao": "DIREITA"
+        }
+    ]
+}
